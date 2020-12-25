@@ -7,4 +7,6 @@ The HMIs of in-vehicle infotainment systems, TVs, phones and many other systems 
 - Copyright (C) 2015 Burkhard Stubert, Embedded Use (DBA), Germany
 All rights reserved.
 
-![](https://i0.wp.com/www.embeddeduse.com/wp-content/uploads/2015/09/responsive-qml-scaling.png?zoom=2&resize=640%2C274&ssl=1)
+![](./img/68747.png)
+
+
